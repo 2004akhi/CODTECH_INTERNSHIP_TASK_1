@@ -1,4 +1,9 @@
-#Student Calculator with Tkinter
-###A simple Student Calculator application built using Python’s Tkinter library for GUI development. This calculator is designed to help students perform basic arithmetic operations like addition, subtraction, multiplication, and division with ease.
+Name: AKHILA A
+Company: CODTECH IT SOLUTIONS
+INTERN ID:CT08DS58
+Domain: Python Programming 
+Duration : Dec 5th 2024 to Jan 5th 2025
+Mentor: Neela Santhosh Kumar
 
-##Features
+# SCIENTIFIC CALCULATOR WITH TKINTER 
+
